@@ -1,0 +1,9 @@
+body {
+	direction: rtl;
+}
+#icons {
+	direction: ltr;
+	margin: auto;
+	float: inline-end;
+	cursor: pointer;
+}
